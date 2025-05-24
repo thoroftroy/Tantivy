@@ -15,3 +15,5 @@ in powershell before running the python file. Everyone else can just run the set
 ```
 py map_generator.py
 ```
+
+(Use the realeases version, the source code is broken and not working)
